@@ -1,0 +1,2 @@
+Set the number of k as little as possible, the bigger k would require more execution time in total after spilt into sub-processes.
+To do that, the processes must be parallelisable and has same arrive time and run time, k would be determine according to number of idle cpu.
